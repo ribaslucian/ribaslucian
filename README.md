@@ -13,7 +13,7 @@ I am an active, experienced and versatile tool maker. Able of identifying one or
     <img
       align="center"
       height="154.5"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribaslucian&hide=html,css,scss&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribaslucian&hide=html&layout=compact&theme=dracula"
     />
   </a>
 
