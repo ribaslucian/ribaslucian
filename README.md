@@ -1,6 +1,6 @@
 ### Hello World!  👋
 
-My README.md is under construction :)
+The repositories are organized in {stack-name}_{app-name}.
 
 <p align="left">
   <a href="https://github.com/ribaslucian/">
