@@ -1,6 +1,7 @@
 ### Hello World!  👋
 
-The repositories are organized in {stack-name}_{app-name}.
+Repositories are organized into {stack-name}_{app-name}.
+Hope it's useful for you!
 
 <p align="left">
   <a href="https://github.com/ribaslucian/">
