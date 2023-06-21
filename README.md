@@ -13,7 +13,7 @@ _Hope it's useful for you!_
     />
   </a>
 
-  <a href="https://github.com/paola-machado/">
+  <a href="https://github.com/ribaslucian/">
     <img
       align="center"
       width="450"
