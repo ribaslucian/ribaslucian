@@ -2,7 +2,7 @@
 
 Repositories are organized into {stack-name}_{app-name}.
 <br/>
-_Hope it's useful for you!_
+_I hope it's useful for you!_
 
 <p align="left">
   <a href="https://github.com/ribaslucian/">
